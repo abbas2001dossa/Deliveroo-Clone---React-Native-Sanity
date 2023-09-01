@@ -1,5 +1,9 @@
 # Deliveroo-Clone---React-Native-Sanity
 
+# Download : 
+- Download Android APK From :
+  https://expo.dev/accounts/abbasdossa/projects/deliveroo/builds/685e84c0-0625-4258-82f1-afb4f9b1eb81
+
 # Provided :
  - Frontend React Native Folder
  - Backend Sanity Folder
